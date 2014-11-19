@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: Тренинги
+  url: http://software-testing.ru/trainings/
+
+- title: selenium2.ru
+  url: http://selenium2.ru/
+
+- title: Кто автор?
+  url: /about/
+  excerpt:
+  image:
+

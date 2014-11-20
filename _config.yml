@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: А хотите я расскажу вам...
+title: А хотите, я расскажу вам...
 description:
-logo: stru_clean.png # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+logo: stru_clean.png
+teaser: default-teaser-400x250.jpg
 locale:
 url: http://barancev.github.io
 

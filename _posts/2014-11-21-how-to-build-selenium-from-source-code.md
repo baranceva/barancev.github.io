@@ -44,7 +44,7 @@ SeleniumHQ/selenium@d69a533af1a1a1dc20cb380beabafd6093a6bbad
 
 Это подробно описано в [инструкции по установке Java](/how-to-install-java-on-windows/), только обратите внимание, что для сборки Selenium потребуется Java SDK, а не JRE.
 
-## 2. Установить клиента Git
+## 2. Установить клиент Git
 
 Клиентов Git много, на любой вкус и цвет, но лично я предпочитаю либо консольный, либо GUI-клиент [Git Extensions](https://code.google.com/p/gitextensions/), именно он дальше будет показан на скриншотах.
 

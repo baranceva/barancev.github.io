@@ -8,7 +8,7 @@ image:
   feature: 2014-11-21-how-to-install-maven/feature.jpg
   credit: NASA/Goddard Space Flight Center
   creditlink: http://www.jpl.nasa.gov/spaceimages/details.php?id=pia18811
-  teaser: 2014-11-21-how-to-install-maven/teaser.jpg
+  teaser: 2014-11-21-how-to-install-maven/maven.jpg
 comments: true
 toc: false
 ---

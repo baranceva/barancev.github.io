@@ -9,7 +9,7 @@ image:
   feature: 2014-11-20-how-to-install-java-on-windows/feature.png
   credit: arkabana
   creditlink: http://arkabana.deviantart.com/art/Windows-8-1-Screensaver-413871909
-  teaser: 2014-11-20-how-to-install-java-on-windows/teaser.jpg
+  teaser: 2014-11-20-how-to-install-java-on-windows/java.jpg
   thumb:
 comments: true
 toc: true

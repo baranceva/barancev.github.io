@@ -3,7 +3,7 @@ layout: article
 title: ...как установить Maven на Windows?
 date: 2014-11-21T08:56:54+03:00
 excerpt: Скачать, распаковать, настроить переменные окружения и можно пользоваться.
-tags: [howto java maven windows]
+tags: [howto, java, maven, windows]
 image:
   feature: 2014-11-21-how-to-install-maven/feature.jpg
   credit: NASA/Goddard Space Flight Center

@@ -3,7 +3,7 @@ layout: article
 title: ...как самостоятельно собрать Selenium из исходников?
 date: 2014-11-21T18:09:23+03:00
 excerpt: Клонировать репозиторий с исходниками, выполнить в консоли команду go release, немного подождать - и свежий Selenium готов.
-tags: [howto selenium]
+tags: [howto, selenium]
 image:
   feature: 2014-11-21-how-to-build-selenium-from-source-code/feature.jpg
   credit: ZOOB

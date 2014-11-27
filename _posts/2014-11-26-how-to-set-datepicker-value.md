@@ -1,9 +1,9 @@
 ---
 layout: article
-title: ...как выбрать дату в jQuery Datepicker?
+title: ...как в Selenium выбрать дату в jQuery Datepicker?
 date: 2014-11-26T13:10:24+03:00
 excerpt: Самый надёжный и быстрый способ -- обратиться к datepicker'у через jQuery API при помощи JavascriptExecutor
-tags: [selenium javascript tricks]
+tags: [selenium, tricks, ajax]
 image:
   feature: 2014-11-26-how-to-set-datepicker-value/feature.png
   credit: Artan Sinani

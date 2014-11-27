@@ -2,9 +2,8 @@
 layout: article
 title: ...как установить Java на Windows?
 modified:
-categories: 
+tags: [howto, java, windows]
 excerpt: Скачать инсталлятор, запустить, а когда установится - настроить переменные окружения и удалить лишние исполняемые файлы.
-tags: [howto java windows]
 image:
   feature: 2014-11-20-how-to-install-java-on-windows/feature.png
   credit: arkabana

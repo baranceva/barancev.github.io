@@ -1,13 +1,14 @@
 ---
 layout: article
 title: ...как в Selenium 'прицепить' файл к невидимому полю ввода?
+date: 2014-12-08T11:24:18+03:00
 excerpt: Надо просто сделать его видимым. Хотя иногда это не просто. Но надо. Другого пути пока нет.
 tags: [selenium, tricks]
 image:
-  feature: how-to-attach-file-to-invisible-field/invisible-no-more.png
+  feature: 2014-12-08-how-to-attach-file-to-invisible-field/invisible-no-more.png
   credit: Invisible Disabilities
   creditlink: http://invisibledisabilities.org/invisible-no-more-campaign/
-  teaser: how-to-attach-file-to-invisible-field/youtube.png
+  teaser: 2014-12-08-how-to-attach-file-to-invisible-field/youtube.png
   thumb:
 comments: true
 ---

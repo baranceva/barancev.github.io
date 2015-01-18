@@ -8,7 +8,7 @@ image:
   feature:
   teaser:
   thumb:
-ads: false
+ads: true
 ---
 ![Алексей Баранцев](/images/barantsev.jpg)
 

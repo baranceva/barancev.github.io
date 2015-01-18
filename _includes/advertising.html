@@ -2,13 +2,39 @@
 .responsive-ads { width: 300px; height: 200px; }
 @media(min-width: 520px) { .responsive-ads { width: 468px; height: 60px; } }
 @media(min-width: 768px) { .responsive-ads { width: 160px; height: 600px; } }
+@media(min-width: 900px) { .responsive-ads { width: 200px; height: 600px; } }
+.responsive-ads .myheader {
+font-family: "Helvetica Neue","Segoe UI",Arial,sans-serif;
+font-weight: 700; font-size: 1.25em; text-transform: uppercase;
+}
+.responsive-ads ul { list-style: none; padding: 0px; }
+.responsive-ads ul li { border-top: 1px dotted grey; padding-bottom: 5px; margin-bottom: 5px; }
+.responsive-ads ul li a { font-weight: bold; }
 </style>
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle responsive-ads"
-	style="display:inline-block"
-	data-ad-client="{{ site.owner.google.ad-client }}"
-	data-ad-slot="{{ site.owner.google.ad-slot }}"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<ins class="responsive-ads" style="display:inline-block">
+<div class="myheader">Мои тренинги</div>
+<ul>
+<li>
+<span>23.01.2015</span><br>
+<a href="http://software-testing.ru/trainings/schedule?&amp;task=3&amp;cid=222">Эффективное использование TestNG и JUnit</a>
+</li>
+<li>
+<span>30.01.2015</span><br>
+<a href="http://software-testing.ru/trainings/schedule?&amp;task=3&amp;cid=126">Тестирование защищенности веб-приложений</a>
+</li>
+<li>
+<span>02.02.2015</span><br>
+<a href="http://software-testing.ru/trainings/schedule?&amp;task=3&amp;cid=232">Организация автоматизированного тестирования</a>
+</li>
+<li>
+<span>06.02.2015</span><br>
+<a href="http://software-testing.ru/trainings/schedule?&amp;task=3&amp;cid=185">Selenium 2.0: стартовый уровень</a>
+</li>
+<li>
+<span>06.02.2015</span><br>
+<a href="http://software-testing.ru/trainings/schedule?&amp;task=3&amp;cid=186">Разработка тестов на Java с использованием Selenium 2.0</a>
+</li>
+</ul>
+А ещё есть? <a href="http://software-testing.ru/trainings/schedule">Конечно!</a>
+</ins>

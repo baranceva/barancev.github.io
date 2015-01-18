@@ -11,6 +11,7 @@ image:
   teaser: 2014-11-21-how-to-install-maven/maven.jpg
 comments: true
 toc: false
+ads: true
 ---
 Надеюсь, что эту инструкцию читают те, кто знает, что такое Maven, а те, кто не знает, могут почитать [на официальном сайте](http://maven.apache.org/) ну или хотя бы [в википедии](http://ru.wikipedia.org/wiki/Apache_Maven).
 

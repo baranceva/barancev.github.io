@@ -11,6 +11,7 @@ image:
   teaser: 2014-12-17-time-to-learn-csharp/emotion.jpg
   thumb:
 comments: true
+ads: true
 ---
 Знаете ли вы, что случилось месяц назад?
 

@@ -11,6 +11,7 @@ image:
   teaser: 2014-12-08-how-to-attach-file-to-invisible-field/youtube.png
   thumb:
 comments: true
+ads: true
 ---
 Как вам должно быть известно, для того, чтобы "прицепить" файл к файловому полю ввода, в Selenium нужно выполнить стандартную команду sendKeys в это поле ввода. Если кому-то это не было известно -- теперь вы это знаете.
 

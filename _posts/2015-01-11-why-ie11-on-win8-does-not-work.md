@@ -11,6 +11,7 @@ image:
   teaser: 2015-01-11-why-ie11-on-win8-does-not-work/broken.jpg
   thumb:
 comments: true
+ads: true
 ---
 В середине декабря компания Microsoft выпустила [обновление KB3025390 для операционных систем Windows 8 и Windows Server 2013](https://connect.microsoft.com/IE/feedback/details/1062093/installation-of-kb3025390-breaks-out-of-process-javascript-execution-in-ie11). Установка этого обновления вызывает практически полную потерю работоспособности Selenium.
 

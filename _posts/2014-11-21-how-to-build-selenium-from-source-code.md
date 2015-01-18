@@ -11,6 +11,7 @@ image:
   teaser: 2014-11-21-how-to-build-selenium-from-source-code/kit.jpg
 comments: true
 toc: true
+ads: true
 ---
 Краткая инструкция по сборке Selenium:
 

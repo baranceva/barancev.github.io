@@ -13,6 +13,8 @@ image:
 comments: true
 ads: true
 ---
+**UPDATE:** Появилась информация от пользователей, что выпущенное 10 февраля [обновление KB3021952](http://www.microsoft.com/en-us/download/details.aspx?id=45749) устраняет описанную ниже проблему. Устанавливается оно обычным способом, через Windows Update.
+
 В середине декабря компания Microsoft выпустила [обновление KB3025390 для операционных систем Windows 8 и Windows Server 2013](https://connect.microsoft.com/IE/feedback/details/1062093/installation-of-kb3025390-breaks-out-of-process-javascript-execution-in-ie11). Установка этого обновления вызывает практически полную потерю работоспособности Selenium.
 
 Поскольку я недостаточно глубоко разбираюсь в деталях устройства драйвера для Internet Explorer, для любителей технических подробностей просто сделаю перевод [заметки Джима Эванса (автора драйвера), посвящённой этой проблеме](http://jimevansmusic.blogspot.ru/2014/12/windows-update-kb3025390-for-ie-11.html):

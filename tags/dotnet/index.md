@@ -8,7 +8,7 @@ image:
   feature:
   teaser:
   thumb:
-ads: false
+ads: true
 ---
 <ul>
 {% for post in site.tags.dotnet %}

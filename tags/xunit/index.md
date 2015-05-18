@@ -1,6 +1,6 @@
 ---
 layout: article
-title: ...что-нибудь про Windows?
+title: ...что-нибудь про тестовые фреймворки?
 date: 
 modified:
 excerpt:
@@ -11,7 +11,7 @@ image:
 ads: true
 ---
 <ul>
-{% for post in site.tags.windows %}
+{% for post in site.tags.xunit %}
     <li>
         <a href="{{ post.url }}/">{{ post.title }}</a>
         <span>({{ post.date | date:"%Y-%m-%d" }})</span>

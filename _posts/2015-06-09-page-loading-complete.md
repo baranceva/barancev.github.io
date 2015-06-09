@@ -3,7 +3,7 @@ layout: article
 title: ...что означает &quot;окончание загрузки страницы&quot;?
 date: 2015-06-09T11:54:30+03:00
 excerpt: В общем случае это вообще невозможно определить, поэтому обычно считается, что это момент, когда свойство document.readyState приобрело значение complete
-tags: [xunit]
+tags: [selenium]
 image:
   feature: 2015-06-09-page-loading-complete/silkperformer.png
   credit: Micro Focus

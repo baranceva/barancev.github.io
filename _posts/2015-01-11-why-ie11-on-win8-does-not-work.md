@@ -2,7 +2,7 @@
 layout: article
 title: ... почему Selenium внезапно перестал работать с IE11?
 date: 2015-01-11T16:16:09+03:00
-excerpt: Это побочный эффект, вызванный обновлением KB3025390. Удалите его и ждите, когда Microsoft устранит проблему
+excerpt: Это побочный эффект, вызванный обновлением KB3025390. Удалите его и ждите, когда Microsoft устранит проблему.
 tags: [selenium]
 image:
   feature: 2015-01-11-why-ie11-on-win8-does-not-work/ie.gif

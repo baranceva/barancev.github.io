@@ -3,7 +3,7 @@ layout: article
 title: ...как мы исправляли один баг, или "Можно я удалю этот кусок кода?"
 date: 2015-06-22T11:08:13+03:00
 excerpt: Как ни печально это признавать, некоторые баги приходится править "наугад", скрестив пальцы в надежде, что ничего не сломается. Ну или почти ничего.
-tags: [xunit]
+tags: [selenium]
 image:
   feature: 2015-06-22-may-i-delete-this-piece-of-code/devs.jpg
   teaser: 2015-06-22-may-i-delete-this-piece-of-code/firefox-crash.png

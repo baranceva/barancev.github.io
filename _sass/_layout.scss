@@ -189,11 +189,36 @@
 			.pagination {
 				@include fill-parent;
 			}
-			.page-meta {
-				p{
-					@include font-size(14,no);
-					font-family: $alt-font;
-					color: lighten($black,60);
+		}
+	}
+	@at-root {
+		div.table {
+			display: table;
+			> div {
+				display: table-cell;
+				vertical-align: top;
+				padding: 10px;
+			}
+		}
+	}
+	@at-root {
+		.page-meta {
+			@include font-size(14,no);
+			font-family: $alt-font;
+			color: lighten($black,60);
+			text-align: center;
+			margin-top: 10px;
+			time {
+				display:inline-block;
+				height: 80px;
+				width: 80px;
+				border: 1px solid #ccc;
+				border-top: 10px solid #ccc;
+				span {
+				display:inline-block;
+					position: relative;
+					top: 50%;
+					transform: translateY(-50%);
 				}
 			}
 		}
@@ -405,9 +430,9 @@
 	position: relative;
 }
 .author-image {
-	position: absolute;
-	left: 0;
+
 	img {
+		min-width: 80px;
 		width: 80px;
 		height: 80px;
 		border-radius: $border-radius;
@@ -415,11 +440,12 @@
 }
 .author-content {
 	word-wrap: break-word;
-	padding-left: 100px; //avatar width + 20px padding
 	min-height: 80px; //mirrors avatar height
 }
 .author-name {
 	@include font-size(20,no);
+	margin-top: 0px;
+	margin-bottom: 5px;
 }
 .author-bio {
 	margin-top: 0;

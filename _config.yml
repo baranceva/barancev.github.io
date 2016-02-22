@@ -11,13 +11,30 @@ url: http://barancev.github.io
 # Jekyll configuration
 
 sass:
-    sass_dir: _sass
-    style: compressed
+  sass_dir: _sass
+  style: compressed
 permalink: /:categories/:title/
 markdown: kramdown
-highlighter: pygments
+kramdown:
+  toc_levels: 1..2
+highlighter: rouge
 gems:
   - jekyll-sitemap
+  - jekyll-gist
+
+
+# Octopress configuration
+
+# Default extensions
+post_ext: md
+page_ext: md
+
+# Found in _templates/
+post_layout: article
+page_layout: article
+
+# Format titles with titlecase?
+titlecase: true
 
 
 # Site owner

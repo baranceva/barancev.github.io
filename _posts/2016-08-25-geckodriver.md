@@ -8,7 +8,7 @@ image:
   feature: 2016-08-25-geckodriver/banner-gecko.png
   credit: Maasai Mara
   creditlink: http://www.maasaimara.com/entries/gecko
-  teaser: 2016-08-25-geckodriver/gecko.png
+  teaser: 2016-08-25-geckodriver/gecko.jpg
   thumb:
 comments: true
 toc: true

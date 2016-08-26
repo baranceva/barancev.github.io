@@ -2,7 +2,7 @@
 layout: article
 title: ...почему Selenium для работы с Firefox начал требовать geckodriver?
 date: 2016-08-25T12:06:51+03:00
-excerpt: Для управления браузером Firefox теперь тоже нужен вспомогательный исполняемый файл, аналогично тому, как раньше уже было сделано для Chrome и Internet Explorer.
+excerpt: Для управления браузером Firefox теперь тоже нужен вспомогательный исполняемый файл, аналогично тому, как раньше уже было сделано для Chrome и IE.
 tags: [selenium]
 image:
   feature: 2016-08-25-geckodriver/banner-gecko.png
@@ -55,7 +55,7 @@ ads: true
 
 ## А что случилось с Marionette?
 
-Те, кто следит на новостями проекта Selenium, наверняка слышали, что Mozilla ещё с 2012 года работает над созданием новой технологии удалённого управления браузером, которая должна прийти на смену FirefoxDriver. Эта технология называется [Marionette](http://selenium2.ru/news/59-marionette-is-the-future-of-firefoxdriver.html).
+Те, кто следит на новостями проекта Selenium, наверняка слышали, что Mozilla ещё с 2012 года [работает над созданием новой технологии Marionette](http://selenium2.ru/news/59-marionette-is-the-future-of-firefoxdriver.html) для удалённого управления браузером, которая должна прийти на смену FirefoxDriver.
 
 С ней ничего не случилось, именно эта технология лежит в основе geckodriver.
 

@@ -6,7 +6,7 @@ excerpt: Самое главное -- понять, чем хорошие лок
 tags: [selenium]
 image:
   feature: 2017-09-18-good-locators/dom.png
-  teaser: 2017-09-18-good-locators/yellow-duck.png
+  teaser: 2017-09-18-good-locators/green-duck.png
   thumb:
 comments: true
 ads: true
